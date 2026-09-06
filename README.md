@@ -14,9 +14,9 @@
 **RoomConnect** — a platform where room owners can list rooms and seekers can search, enquire, and connect. Includes owner/seeker/admin roles, dashboards, favorites, and enquiry management. Built in phases, one feature at a time.
 
 ## 📫 Reach me
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+⭐️ From
+[Abhishektrivedi-oss](https://github.com/Abhishektrivedi-oss)
 
-⭐️ From [Abhishektrivedi-oss](https://github.com/Abhishektrivedi-oss)
 linkedin profile-  https://www.linkedin.com/in/abhishek-trivedi-65240134a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Email -- abhitrivedi1125@gmail.com
